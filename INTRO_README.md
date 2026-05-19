@@ -6,7 +6,7 @@ Cybersecurity learning portfolio including CTFs, projects, Python scripting, and
 
 ## About Me
 
-I am transitioning into cybersecurity and IT from a facility maintenance background. I am currently studying through SANS Technology Institute and building hands-on experience through CTFs, Python scripting, Linux labs, and security projects.
+I am transitioning into cybersecurity and IT from a varied maintenance / technical background. I am currently studying through SANS Technology Institute and building hands-on experience through CTFs, Python scripting, Linux labs, and security projects.
 
 This repository serves as a collection of my cybersecurity learning journey, projects, notes, and technical practice.
 
