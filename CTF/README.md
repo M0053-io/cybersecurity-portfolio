@@ -36,6 +36,3 @@ One of the biggest lessons I learned from CTF participation is the importance of
 
 ---
 
-## Notes
-
-In accordance with NCL policies, this repository does not contain public write-ups, flags, or protected challenge solutions related to NCL events.
