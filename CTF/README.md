@@ -1,20 +1,30 @@
-# CTF Challenges & Practice
+# Capture The Flag (CTF) Experience
 
-This section contains reflections, notes, and write-ups related to Capture The Flag (CTF) participation and cybersecurity challenge practice.
+This section contains my Capture The Flag (CTF) participation, reflections, write-ups, and related cybersecurity challenge experience.
 
-CTFs have helped me improve problem-solving skills, technical research, scripting, and analytical thinking in a hands-on environment.
+CTFs have helped me develop practical problem-solving skills through hands-on technical challenges involving scripting, networking, Linux systems, cryptography, web security, and log analysis.
 
 ---
 
-## Areas Practiced
+## National Cyber League (NCL) - Spring 2026
+
+---
+
+## Reflection
+
+Participating in CTF competitions has been one of the most valuable ways for me to build hands-on cybersecurity experience. Working through unfamiliar technical problems has improved my ability to research, troubleshoot, and think analytically under pressure.
+
+Through these challenges, I have gained experience with:
 
 - Cryptography
-- Web Exploitation
 - Networking
-- OSINT
-- Steganography
-- Log Analysis
-- Scripting Automation
+- Linux systems
+- Python scripting
+- Log analysis
+- Web security concepts
+- Security research and problem solving
+
+One of the biggest lessons I learned from CTF participation is the importance of persistence and methodical troubleshooting. Many challenges required breaking problems into smaller steps, testing ideas, and learning new concepts independently.
 
 ---
 
@@ -22,10 +32,10 @@ CTFs have helped me improve problem-solving skills, technical research, scriptin
 
 - National Cyber League (NCL)
 - CityintheCloud Challenges
-- Practice Labs & Exercises
+- Practice Labs & Independent Exercises
 
 ---
 
 ## Notes
 
-Some CTF platforms restrict public write-ups or challenge solutions. Any content included here follows platform rules and focuses on learning reflections, methodology, and technical growth rather than protected challenge answers.
+In accordance with NCL policies, this repository does not contain public write-ups, flags, or protected challenge solutions related to NCL events.
