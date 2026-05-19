@@ -14,16 +14,16 @@ This repository serves as a collection of my cybersecurity learning journey, pro
 
 ## Featured Achievements
 
-[GIAC Certified Intrusion Analyst (GCIA)](https://www.credly.com/badges/173407bd-f70d-477a-b8f4-72fb02592055)
-[GIAC Python Coder (GPYC)](https://www.credly.com/badges/172cd9a3-17fd-4cc5-b696-97b81602e992)
-[GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/736cfd23-330c-439b-a6d2-a3dded5bd81a)
-[GIAC Security Essentials (GSEC)](https://www.credly.com/badges/5ff30748-6c38-49f9-bb79-2c3bd9d0150d)
-[GIAC Information Security Fundamentals (GISF)](https://www.credly.com/badges/3eea3c0c-21b0-4128-b242-3e9c9e3f231d)
-[GIAC Foundational Cybersecurity Technologies (GFACT)](https://www.credly.com/badges/15d105e3-b01f-408b-9262-4f65882aaad8)
-[NCL Spring 2026 Individual Game Scouting Report](CTF/NCL/Individual Game - Cyber Skyline Report.pdf)
-[NCL Spring 2026 Individual Game Certificate](CTF/NCL/Individual Game - Cyber Skyline Certificate.pdf)
-[NCL Spring 2026 Team Game Scouting Report](CTF/NCL/Team Game - Cyber Skyline Report.pdf)
-[NCL Spring 2026 Team Game Certificate](CTF/NCL/Team Game - Cyber Skyline Certificate.pdf)
+- [GIAC Certified Intrusion Analyst (GCIA)](https://www.credly.com/badges/173407bd-f70d-477a-b8f4-72fb02592055)
+- [GIAC Python Coder (GPYC)](https://www.credly.com/badges/172cd9a3-17fd-4cc5-b696-97b81602e992)
+- [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/736cfd23-330c-439b-a6d2-a3dded5bd81a)
+- [GIAC Security Essentials (GSEC)](https://www.credly.com/badges/5ff30748-6c38-49f9-bb79-2c3bd9d0150d)
+- [GIAC Information Security Fundamentals (GISF)](https://www.credly.com/badges/3eea3c0c-21b0-4128-b242-3e9c9e3f231d)
+- [GIAC Foundational Cybersecurity Technologies (GFACT)](https://www.credly.com/badges/15d105e3-b01f-408b-9262-4f65882aaad8)
+- [NCL Spring 2026 Individual Game Scouting Report](CTF/NCL/Individual Game - Cyber Skyline Report.pdf)
+- [NCL Spring 2026 Individual Game Certificate](CTF/NCL/Individual Game - Cyber Skyline Certificate.pdf)
+- [NCL Spring 2026 Team Game Scouting Report](CTF/NCL/Team Game - Cyber Skyline Report.pdf)
+- [NCL Spring 2026 Team Game Certificate](CTF/NCL/Team Game - Cyber Skyline Certificate.pdf)
 
 ---
 
